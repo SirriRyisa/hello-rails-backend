@@ -1,24 +1,54 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# hello-rails-backend
+This exercise is going to create a [React front-end](https://github.com/SirriRyisa/hello-rails-front-end) with a Rails back-end and connect them to display a random message.
 
-Things you may want to cover:
+## Getting Started
+- clone the repository
+`git clone git@github.com:SirriRyisa/hello-rails-backend.git`
+- navigate to the folder
+`cd hello-rails-back-end`
+- checkout the feature
+`git checkout development
+- Install packages
+`bundle install`
+- Setup database
+`rails db:setup`
+- Run migration
+`rails db:migrate`
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby
+- Ruby on Rails version
+- PostgreSQL
 
-* Configuration
 
-* Database creation
+## Authors
 
-* Database initialization
+👤 **Sirri Ryisa**
 
-* How to run the test suite
+- GitHub: [@SirriRyisa](https://github.com/SirriRyisa)
+- Twitter: [@N_Ryisa](https://twitter.com/N_Ryisa)
+- LinkedIn: [@SirriNgwaRyisa](https://www.linkedin.com/in/SirriNgwaRyisa/)
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## 🤝 Contributing
 
-* ...
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page]().
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
